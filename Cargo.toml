@@ -1,0 +1,15 @@
+[package]
+name = "lua-latest-sys"
+version = "0.0.0"
+keywords = ["bindings", "lua"]
+categories = ["external-ffi-bindings"]
+description = "Unsafe bindings to latest Lua's C API"
+repository = "https://github.com/jakobzs/lua-latest-sys"
+readme = "README.md"
+edition = "2021"
+links = "lua5.4"
+build = "build.rs"
+license = "MIT"
+
+[build-dependencies]
+cc = "1.0"
