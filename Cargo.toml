@@ -1,6 +1,6 @@
 [package]
 name = "lua-latest-sys"
-version = "0.0.1"
+version = "0.0.2"
 keywords = ["bindings", "lua"]
 categories = ["external-ffi-bindings"]
 description = "Unsafe bindings to latest Lua's C API (5.4.4)"

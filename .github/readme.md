@@ -12,7 +12,7 @@ The goal of this repository is to support the latest and only the latest version
 
 Add the following line to your Cargo.toml file.
 ```
-lua-latest-sys = "0.0.1"
+lua-latest-sys = "0.0.2"
 ```
 
 Now you can utilize `lua-latest-sys` in your crate. For usage of this crate, please refer to the examples.
