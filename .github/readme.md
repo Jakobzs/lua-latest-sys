@@ -15,7 +15,7 @@ Add the following line to your Cargo.toml file.
 lua-latest-sys = "0.0.1"
 ```
 
-Now you can utilize `lua-latest-sys` in your crate. Please refer to the examples, as they show how to use this crate.
+Now you can utilize `lua-latest-sys` in your crate. For usage of this crate, please refer to the examples.
 
 ## Creating the bindings
 
